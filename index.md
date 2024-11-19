@@ -1,3 +1,1 @@
-# Welcome to the Repository Page
-### This website...
-##### Is a test site to see what it's like to make a site in GitHub. It's hard, but free, and a good deal for me!
+## This is a site.
